@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 	"github.com/gin-gonic/gin"
-	"github.com/dejauls/gallery-api/database"
-	"github.com/dejauls/gallery-api/routes"
+	"github.com/dejauls/task-5-pbi-fullstack-developer--Rajaul-Bani-Safar-/database"
+	"github.com/dejauls/task-5-pbi-fullstack-developer--Rajaul-Bani-Safar-/routes"
 )
 
 func main() {
